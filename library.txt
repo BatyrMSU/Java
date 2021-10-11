@@ -1,0 +1,8 @@
+The Call of the Wild,Jack London,108,2019,Independently published
+The Adventures of Tom Sawyer,Mark Twain,124,2018,CreateSpace Independent Publishing Platform
+The Mysterious Stranger,Mark Twain,91,2017,Independently published
+The Adventures of Huckleberry Finn,Mark Twain,320,1981,Bantam Classics
+The Scarlet Plague,Jack London,156,2018,The Scarlet Plague
+Journey to the Centre of the Earth,Jules Verne,288,2016,William Collins
+Around the World in Eighty Days,Jules Verne,95,2017,CreateSpace Independent Publishing Platform
+20000 Leagues Under the Sea,Jules Verne,256,1998,Wordsworth Editions
