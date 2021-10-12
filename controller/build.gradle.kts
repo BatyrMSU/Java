@@ -27,10 +27,9 @@ application {
 
 
 tasks.register<JavaExec>("startMainClass") {
+
     group = "launch"
-
     mainClass.set("mypackage2.App")
-
     classpath = sourceSets["main"].runtimeClasspath
 
 }
